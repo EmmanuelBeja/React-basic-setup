@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+
 import Register from "./Register";
 import Login from "./Login";
 import IndexPage from "./Index";
